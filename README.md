@@ -1,34 +1,44 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Next.js 12 & Material-UI (MUI) Boilerplate
+
+🦾 Starter boilerplate with Next.js 12 & Material-UI (MUI)
+📦 Next.js 12, mui/material 5, emotion/styled 11, emotion/react 11
+⌚ Last update: 12/06/2021
+
+![logo](https://repository-images.githubusercontent.com/435599140/3bf65f5f-e0a7-45d9-82c1-8535f9af68c0)
 
 ## Getting Started
 
-First, run the development server:
+Clone project and enter in folder:
 
-```bash
-npm run dev
-# or
-yarn dev
+```
+cd nextjs-material-ui-boilerplate
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Run npm install:
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+```
+npm i
+```
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+Enjoy:
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+```
+npm run dev
+```
 
-## Learn More
+## Built With
 
-To learn more about Next.js, take a look at the following resources:
+- [Next.js](https://nextjs.org/) - Next.js gives you the best developer experience with all the features you need for production: hybrid static & server rendering, TypeScript support, smart bundling, route pre-fetching, and more. No config needed.
+- [Material-UI](https://mui.com/) - The React UI library you always wanted
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## Versioning
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+We use [SemVer](http://semver.org/) for versioning.
 
-## Deploy on Vercel
+## Authors ✨
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+- **guillaumeduhan** - _Initial work_ - [Github](https://github.com/guillaumeduhan)
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+## License
+
+This project is licensed under the MIT License.
